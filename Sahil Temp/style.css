@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+
+}
+.container{
+    height: 100vh;
+    /*width: 100%; */
+    /* background-color: aqua; */
+  
+    /* background-repeat: repeat-x; */
+    background-size: cover;
+    background-image: url(temp.jpg);
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 40px;
+    align-items: center;
+    padding-left: 15%;
+    padding-top: 10%;
+}
+label{
+    padding-left: 15%;
+    padding-top: 10%;
+}
+.result{
+    padding-left: 15%;
+    padding-top: 10%;
+}
